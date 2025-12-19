@@ -459,3 +459,14 @@ FodyWeavers.xsd
 *.dwo
 /.vs
 /ProjektyCpp/x64/Debug
+# Pythonowe pliki tymczasowe (cache)
+__pycache__/
+*.py[cod]
+
+# Srodowiska wirtualne (biblioteki)
+.venv/
+env/
+venv/
+
+# Ustawienia edytora (zeby nie wysylac swoich kolorow VS Code)
+.vscode/
